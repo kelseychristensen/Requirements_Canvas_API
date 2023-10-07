@@ -35,11 +35,11 @@ This script does the following:
 ## Screenshots
 
 #### Console Feedback at Start
-![Start](/at start.PNG "at start")
+![Start](at start.png "at start")
 #### Console Feedback During Run
-![Run](/middle.PNG "at start")
+![Run](middle.png "at start")
 #### Console Feedback at Completion
-![End](/end.PNG "at end")
+![End](end.png "at end")
 
 
 ### Built with
