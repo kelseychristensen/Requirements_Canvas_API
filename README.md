@@ -30,7 +30,7 @@ This script does the following:
 
 ## Links
 
-- [Repo](https://github.com/kelseychristensen/Requirements-Canvas-API "to-do-tool")
+- [Repo](https://github.com/kelseychristensen/Requirements_Canvas_API) "to-do-tool")
 
 ## Screenshots
 
