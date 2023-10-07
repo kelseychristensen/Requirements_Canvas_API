@@ -35,9 +35,9 @@ This script does the following:
 ## Screenshots
 
 #### Console Feedback at Start
-![Start](at start.png "at start")
+![Start](at_start.png "at start")
 #### Console Feedback During Run
-![Run](middle.png "at start")
+![Run](middle.png "middle")
 #### Console Feedback at Completion
 ![End](end.png "at end")
 
