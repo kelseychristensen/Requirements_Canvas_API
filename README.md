@@ -35,11 +35,11 @@ This script does the following:
 ## Screenshots
 
 #### Console Feedback at Start
-![Start](Requirements-Canvas-API/at start.PNG "at start")
+![Start](/at start.PNG "at start")
 #### Console Feedback During Run
-![Run](Requirements-Canvas-API/middle.PNG "at start")
+![Run](/middle.PNG "at start")
 #### Console Feedback at Completion
-![End](Requirements-Canvas-API/end.PNG "at end")
+![End](/end.PNG "at end")
 
 
 ### Built with
